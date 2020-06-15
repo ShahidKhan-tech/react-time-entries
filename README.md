@@ -2,7 +2,6 @@
 
 Time tracking app on React, try [demo](https://vivid-trace.firebaseapp.com/).
 
-The app is inspired by [toggl.com](https://toggl.com).
 
 # Tech stack
 Web application based on React (clientside) and Firebase (serverside)
